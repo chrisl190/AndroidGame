@@ -1,0 +1,130 @@
+{
+  "assets": [
+    {
+      "type": "Bitmap",
+      "name": "InputDemoIcon",
+      "file": "img/InputDemoIcon.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "InputDemoIconSelected",
+      "file": "img/InputDemoIconSelected.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "AssetDemoIcon",
+      "file": "img/AssetDemoIcon.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "AssetDemoIconSelected",
+      "file": "img/AssetDemoIconSelected.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "ScreenDemoIcon",
+      "file": "img/ScreenDemoIcon.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "ScreenDemoIconSelected",
+      "file": "img/ScreenDemoIconSelected.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "GameObjectDemoIcon",
+      "file": "img/GameObjectDemoIcon.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "GameObjectDemoIconSelected",
+      "file": "img/GameObjectDemoIconSelected.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "ViewportDemoIcon",
+      "file": "img/ViewportDemoIcon.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "ViewportDemoIconSelected",
+      "file": "img/ViewportDemoIconSelected.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "AnimationDemoIcon",
+      "file": "img/AnimationDemoIcon.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "AnimationDemoIconSelected",
+      "file": "img/AnimationDemoIconSelected.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "BackArrow",
+      "file": "img/BackArrow.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "BackArrowSelected",
+      "file": "img/BackArrowSelected.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "Map_Background",
+      "file": "img/Map_Background.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "Map_Background_rules",
+      "file": "img/Map_Background_rules.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "Rules",
+      "file": "img/Rules.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "Options1",
+      "file": "img/Options1.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "Options_Background",
+      "file": "img/Options_Background.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "DownArrow",
+      "file": "img/DownArrow.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "DownArrowSelected",
+      "file": "img/DownArrowSelected.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "Attack",
+      "file": "img/Attack.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "AttackSelected",
+      "file": "img/AttackSelected.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "settings",
+      "file": "img/settings.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "settingsSelected",
+      "file": "img/settingsSelected.png"
+    }
+
+  ]
+}

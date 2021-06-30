@@ -1,0 +1,36 @@
+{
+  "assets": [
+
+    {
+      "type": "Bitmap",
+      "name": "SplashScreenBackground",
+      "file": "img/SplashScreenBackground.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "Loading1",
+      "file": "img/Loading1.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "Loading2",
+      "file": "img/Loading2.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "Loading3",
+      "file": "img/Loading3.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "Loading4",
+      "file": "img/Loading4.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "Loading5",
+      "file": "img/Loading5.png"
+    }
+
+    ]
+}

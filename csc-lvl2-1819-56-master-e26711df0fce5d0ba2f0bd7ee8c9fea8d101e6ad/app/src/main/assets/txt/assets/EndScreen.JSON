@@ -1,0 +1,34 @@
+{
+  "assets": [
+    {
+      "type": "Bitmap",
+      "name": "win",
+      "file": "img/win1.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "lose",
+      "file": "img/lose1.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "Exit",
+      "file": "img/Exit.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "confetti",
+      "file": "img/confetti.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "Sad",
+      "file": "img/Sad.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "ExitSelected",
+      "file": "img/ExitSelected.png"
+    }
+    ]
+}

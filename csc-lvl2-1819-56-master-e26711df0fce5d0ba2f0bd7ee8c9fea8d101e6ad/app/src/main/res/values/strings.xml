@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Generic Android Game Engine (GAGE))</string>
+
+    <string name="ERROR_TAG">Gage Error: </string>
+	<string name="WARNING_TAG">Gage Warning:</string>
+
+    <string name="GOING_TO_TOP" translatable="true">Going to top</string>
+    <string name="MAIN_MENU" translatable="true">Main Menu</string>
+    <string name="BACK_TO_TOP" translatable="true">Back to top</string>
+    
+</resources>

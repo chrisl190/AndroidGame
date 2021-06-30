@@ -1,0 +1,12 @@
+{
+  "spritesheet" : "img/Map_Background.png",
+  "numRows" : 1,
+  "numColumns" : 1,
+  "animations": [
+    {
+      "name": "Map_Background",
+      "totalPeriod" : 1.0,
+      "loopAnimation" : true
+    }
+  ]
+}

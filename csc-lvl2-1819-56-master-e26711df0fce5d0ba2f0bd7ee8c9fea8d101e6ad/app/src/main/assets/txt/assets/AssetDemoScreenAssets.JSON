@@ -1,0 +1,105 @@
+{
+  "assets": [
+    {
+      "type": "Bitmap",
+      "name": "UpArrow",
+      "file": "img/UpArrow.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "VolumeUp",
+      "file": "img/VolumeUp.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "VolumeUpSelected",
+      "file": "img/VolumeUpSelected.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "VolumeDown",
+      "file": "img/VolumeDown.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "VolumeDownSelected",
+      "file": "img/VolumeDownSelected.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "UpArrowSelected",
+      "file": "img/UpArrowSelected.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "volume",
+      "file": "img/volume.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "BackButton",
+      "file": "img/BackButton1.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "BackButtonSelected",
+      "file": "img/BackButtonSelected1.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "An",
+      "file": "img/An.png"
+    },
+    {
+    "type": "Bitmap",
+    "name": "AnSelected",
+    "file": "img/AnSelected.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "mute",
+      "file": "img/mute.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "Animation",
+      "file": "img/Animation.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "AnimationSelected",
+      "file": "img/AnimationSelected.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "SplashScreenBackground",
+      "file": "img/SplashScreenBackground.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "Loading1",
+      "file": "img/Loading1.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "Loading2",
+      "file": "img/Loading2.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "Loading3",
+      "file": "img/Loading3.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "Loading4",
+      "file": "img/Loading4.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "Loading5",
+      "file": "img/Loading5.png"
+    }
+
+    ]
+}

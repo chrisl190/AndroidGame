@@ -1,0 +1,120 @@
+{
+  "assets": [
+    {
+      "type": "Bitmap",
+      "name": "GameRules",
+      "file": "img/GameRules.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "Options",
+      "file": "img/Options.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "StartGame",
+      "file": "img/StartGame.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "StartGameSelected",
+      "file": "img/StartGameSelected.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "StartGame",
+      "file": "img/StartGame.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "OptionSelected",
+      "file": "img/OptionSelected.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "GameRulesSelected",
+      "file": "img/GameRulesSelected.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "Exit1",
+      "file": "img/Exit1.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "ExitSelected1",
+      "file": "img/ExitSelected1.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "Credits",
+      "file": "img/Credits.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "CreditsSelected",
+      "file": "img/CreditsSelected.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "BackButton",
+      "file": "img/BackButton1.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "BackButtonSelected",
+      "file": "img/BackButtonSelected1.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "ArrowLeft",
+      "file": "img/ArrowLeft.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "ArrowRight",
+      "file": "img/ArrowRight.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "SplashScreenBackground",
+      "file": "img/SplashScreenBackground.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "Rules1",
+      "file": "img/Rules1.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "Rules2",
+      "file": "img/Rules2.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "Rules3",
+      "file": "img/Rules3.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "Rules4",
+      "file": "img/Rules4.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "Rules5",
+      "file": "img/Rules5.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "Rules6",
+      "file": "img/Rules6.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "Logo",
+      "file": "img/Logo.png"
+    }
+
+  ]
+}

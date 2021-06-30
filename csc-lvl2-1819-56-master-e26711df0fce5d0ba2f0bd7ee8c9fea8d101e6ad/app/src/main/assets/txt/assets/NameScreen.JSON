@@ -1,0 +1,46 @@
+{
+  "assets": [
+    {
+      "type": "Bitmap",
+      "name": "Key",
+      "file": "img/key.png"
+    },
+
+    {
+      "type": "Bitmap",
+      "name": "Next",
+      "file": "img/Next1.png"
+    {
+
+    },
+    {
+      "type": "Bitmap",
+      "name": "Back",
+      "file": "img/NBack.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "BackSelected",
+      "file": "img/NBackSelected.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "NextSelected",
+      "file": "img/NextSelected1.png"
+    },
+
+    {
+      "type": "Bitmap",
+      "name": "BackSpace",
+      "file": "img/BackSpace.png"
+    },
+
+    {
+      "type": "Bitmap",
+      "name": "SpaceButton",
+      "file": "img/SpaceButton1.png"
+    }
+
+
+    ]
+}

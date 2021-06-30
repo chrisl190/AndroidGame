@@ -1,0 +1,28 @@
+{  "assets": [
+    {
+      "type": "Bitmap",
+      "name": "VolDown",
+      "file": "img/VolDown.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "VolDownSel",
+      "file": "img/Options.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "vOluP",
+      "file": "img/vOluP.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "VolUpSel",
+      "file": "img/VolUpSel.png"
+    },
+    {
+      "type": "Sound",
+      "name": "RiskThemeSong",
+      "file": "sound/RiskThemeSong.mp3"
+    }
+  ]
+}

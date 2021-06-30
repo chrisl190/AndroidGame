@@ -1,0 +1,28 @@
+{
+  "spritesheet" : "img/SpriteSheet.png",
+  "numRows" : 4,
+  "numColumns" : 4,
+  "animations": [
+    {
+      "name": "explosionIdle",
+      "startFrame" : 0,
+      "endFrame" : 7,
+      "totalPeriod" : 1.0,
+      "loopAnimation" : true
+    },
+    {
+      "name": "explosionSmall",
+      "startFrame" : 10,
+      "endFrame" : 19,
+      "totalPeriod" : 1.0,
+      "loopAnimation" : true
+    },
+    {
+      "name": "explosionLarge",
+      "startFrame" : 20,
+      "endFrame" : 27,
+      "totalPeriod" : 1.0,
+      "loopAnimation" : false
+    }
+  ]
+}

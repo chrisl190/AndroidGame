@@ -1,0 +1,75 @@
+{
+  "assets": [
+    {
+      "type": "Bitmap",
+      "name": "Begin",
+      "file": "img/Begin1.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "Back",
+      "file": "img/BackButton1.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "Territory1",
+      "file": "img/T1.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "Territory2",
+      "file": "img/T2.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "Territory3",
+      "file": "img/T3.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "Territory4",
+      "file": "img/T4.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "Territory5",
+      "file": "img/T5.png"
+    },
+
+    {
+      "type": "Bitmap",
+      "name": "BeginSelected",
+      "file": "img/BeginSelected1.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "BackSelected",
+      "file": "img/BackButtonSelected1.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "Territory1Selected",
+      "file": "img/T1S.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "Territory2Selected",
+      "file": "img/T2S.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "Territory3Selected",
+      "file": "img/T3S.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "Territory4Selected",
+      "file": "img/T4S.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "Territory5Selected",
+      "file": "img/T5S.png"
+    }
+  ]
+}

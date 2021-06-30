@@ -1,0 +1,364 @@
+{
+  "assets": [
+    {
+      "type": "Bitmap",
+      "name": "GamePiece",
+      "file": "img/ChessPiece.jpg"
+    },
+    {
+      "type": "Bitmap",
+      "name": "DiceSide0",
+      "file": "img/Dice00.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "DiceSide1",
+      "file": "img/Dice01.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "DiceSide2",
+      "file": "img/Dice02.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "DiceSide3",
+      "file": "img/Dice03.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "DiceSide4",
+      "file": "img/Dice04.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "DiceSide5",
+      "file": "img/Dice05.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "DiceSide6",
+      "file": "img/Dice06.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "DiceSide7",
+      "file": "img/Dice07.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "GameBoard",
+      "file": "img/GameBoard.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "CopperPad",
+      "file": "img/CopperPad.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "Unit",
+      "file": "img/SmallUnit.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "BigUnit",
+      "file": "img/BigUnit.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "UnitExhausted",
+      "file": "img/SmallUnitSleeping.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "BigUnitExhausted",
+      "file": "img/BigUnitSleeping.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "Prosthetics",
+      "file": "img/Prosthetics.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "ReplicatingHumanMove",
+      "file": "img/ReplicatingHumanMove.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "RobotArm",
+      "file": "img/RobotArm.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "QuantumDevKit",
+      "file": "img/QuantumDevKit.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "Encryption",
+      "file": "img/Encryption.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "SuperpositionQubits",
+      "file": "img/SuperpositionQubits.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "AntiVirus",
+      "file": "img/AntiVirus.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "Captcha",
+      "file": "img/Captcha.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "UserLogIns",
+      "file": "img/UserLogIns.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "AutomatedAppliances",
+      "file": "img/AutomatedAppliances.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "SmartAssistant",
+      "file": "img/SmartAssistant.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "SmartLighting",
+      "file": "img/SmartLighting.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "MachineLearning",
+      "file": "img/MachineLearning.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "NeuralNetworks",
+      "file": "img/NeuralNetworks.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "TuringTest",
+      "file": "img/TuringTest.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "public",
+      "file": "img/public.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "static",
+      "file": "img/static.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "void",
+      "file": "img/void.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "main",
+      "file": "img/main.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "()",
+      "file": "img/().png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "NeutralTerritory",
+      "file": "img/NeutralTerritory.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "PlayerTerritory",
+      "file": "img/PlayerTerritory.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "NPC1Territory",
+      "file": "img/NPC1Territory.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "NPC2Territory",
+      "file": "img/NPC2Territory.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "NPC3Territory",
+      "file": "img/NPC3Territory.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "NPC4Territory",
+      "file": "img/NPC4Territory.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "bonus1Button",
+      "file": "img/bonus1Button.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "bonus1ButtonDisabled",
+      "file": "img/bonus1ButtonDisabled.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "bonus1ButtonActive",
+      "file": "img/bonus1ButtonActive.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "bonus2Button",
+      "file": "img/bonus2Button.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "bonus2ButtonDisabled",
+      "file": "img/bonus2ButtonDisabled.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "bonus2ButtonActive",
+      "file": "img/bonus2ButtonActive.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "bonus3Button",
+      "file": "img/bonus3Button.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "bonus3ButtonDisabled",
+      "file": "img/bonus3ButtonDisabled.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "bonus3ButtonActive",
+      "file": "img/bonus3ButtonActive.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "bonus4Button",
+      "file": "img/bonus4Button.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "bonus4ButtonDisabled",
+      "file": "img/bonus4ButtonDisabled.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "bonus4ButtonActive",
+      "file": "img/bonus4ButtonActive.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "bonus5Button",
+      "file": "img/bonus5Button.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "bonus5ButtonDisabled",
+      "file": "img/bonus5ButtonDisabled.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "bonus5ButtonActive",
+      "file": "img/bonus5ButtonActive.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "BackButton",
+      "file": "img/BackButton.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "EndTurnButton",
+      "file": "img/EndTurn.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "FightButtonActive",
+      "file": "img/FightActive.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "FightButtonAvailable",
+      "file": "img/FightAvailable.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "FightButtonDisabled",
+      "file": "img/FightDisabled.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "MergeButtonAvailable",
+      "file": "img/MergeAvailable.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "MergeButtonDisabled",
+      "file": "img/MergeDisabled.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "MoveButtonActive",
+      "file": "img/MoveActive.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "MoveButtonAvailable",
+      "file": "img/MoveAvailable.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "MoveButtonDisabled",
+      "file": "img/MoveDisabled.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "SettingsButton",
+      "file": "img/settings.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "UIButtonBackground",
+      "file": "img/UIBL.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "UIButtonBackgroundBottomRight",
+      "file": "img/UIBR.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "UIButtonBackgroundTopRight",
+      "file": "img/UITR.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "ZoomButtonMinus",
+      "file": "img/ZoomMinus.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "ZoomButtonPlus",
+      "file": "img/ZoomPlus.png"
+    }
+  ]
+}

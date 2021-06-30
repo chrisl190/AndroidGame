@@ -1,0 +1,43 @@
+{
+  "assets": [
+    {
+      "type": "Bitmap",
+      "name": "C",
+      "file": "img/C.png"
+    },
+
+    {
+      "type": "Bitmap",
+      "name": "CR",
+      "file": "img/CR.png"
+
+    },
+    {
+      "type": "Bitmap",
+      "name": "CRE",
+      "file": "img/CRE.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "CRED",
+      "file": "img/CRED.png"
+    },
+
+    {
+      "type": "Bitmap",
+      "name": "CREDI",
+      "file": "img/CREDI.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "CREDIT",
+      "file": "img/CREDIT.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "Credits1",
+      "file": "img/Credits1.png"
+    }
+
+  ]
+}
